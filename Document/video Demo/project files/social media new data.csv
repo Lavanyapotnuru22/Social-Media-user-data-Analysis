@@ -1,0 +1,24 @@
+﻿Age,Gender,Demographics,Interests,Device_type,Location,Platform,profession,Income,Indebt,Homeowner,Owns_cars
+17,Female,Urban,Interest,Mobile,India,Instagram,Bussiness,"₹ 1,00,000.00",TRUE,TRUE,TRUE
+18,Female,Rural,Hobby,Mobile,India,Youtube,Infulencers,"₹ 2,00,000.00",TRUE,FALSE,TRUE
+27,Female,Urban,Intrest,Mobile,India,Instagram,private Job,"₹ 1,00,000.00",FALSE,FALSE,TRUE
+17,Female,Urban,Intrest,Mobile,India,Instagram,Bussiness,"₹ 3,00,000.00",TRUE,FALSE,TRUE
+34,Female,Urban,Hobby,Mobile,India,Youtube,Infulencers,"₹ 9,00,000.00",FALSE,TRUE,TRUE
+47,Female,Rural,Intrest,Mobile,India,Instagram,private Job,"₹ 1,00,000.00",TRUE,TRUE,FALSE
+18,Male,Rural,Hobby,Mobile,India,Youtube,Infulencers,"₹ 1,00,000.00",FALSE,FALSE,FALSE
+15,Male,Rural,Hobby,Mobile,India,Instagram,private Job,"₹ 1,00,000.00",FALSE,FALSE,FALSE
+56,Male,Rural,Hobby,Mobile,India,Youtube,Infulencers,"₹ 3,00,000.00",FALSE,FALSE,FALSE
+37,Female,Urban,Intrest,Mobile,India,Youtube,private Job,"₹ 4,00,000.00",FALSE,TRUE,FALSE
+67,Male,Rural,Intrest,Mobile,India,Instagram,Bussiness,"₹ 9,00,000.00",TRUE,TRUE,TRUE
+32,Female, ,Intrest,Mobile,India,Youtube,Bussiness,"₹ 6,00,000.00",TRUE,TRUE,TRUE
+45,Male,Urban,Hobby,Mobile,India,Instagram,private Job,"₹ 7,00,000.00",TRUE,FALSE,FALSE
+47,Male,URban,Intrest,Mobile,India,Instagram,Infulencers,"₹ 6,00,000.00",FALSE,FALSE,FALSE
+32,Female,Rural,Intrest,Mobile,India,Instagram,private Job,"₹ 5,00,000.00",TRUE,TRUE,TRUE
+32,Male,Urban,Hobby,Mobile,India,Youtube,Bussiness,"₹ 8,00,000.00",FALSE,TRUE,TRUE
+45,Female,Rural,Hobby,Mobile,India,Youtube,Infulencers,"₹ 4,00,000.00",FALSE,FALSE,TRUE
+24,Female,Urban,Intrest,Mobile,India,Youtube,private Job,"₹ 1,00,000.00",FALSE,FALSE,TRUE
+28,Male,Rural,Hobby,Mobile,India,Youtube,Infulencers,"₹ 1,00,000.00",FALSE,TRUE,TRUE
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,-,
